@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: event-bus
-          image: nyisaymin/event-bus:0.0.5
+          image: nyisaymin/event-bus
 ---
 apiVersion: v1
 kind: Service
